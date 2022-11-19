@@ -105,5 +105,11 @@ p{
     color:orange;
 } 
 .first-text{
-    color:dimgray;
+    color:rgb(61, 61, 61);
+}
+h3{
+    font-size: 22px;
+}
+.copyright{
+    color:rgb(66, 66, 66);
 }
